@@ -2,8 +2,8 @@
 
 ## 0. <o>
 Create a script that creates an alias.
-- Name*:* `ls`
-- Values*:* `rm *`
+- Name *:* `ls`
+- Values *:* `rm *`
 
 **File:** `0-alias`
 
@@ -34,15 +34,15 @@ Create a script that lists all local variables and environment variables, and fu
 
 ## 6. Local variable
 Create a script that creates a new local variable.
-- Name*:* `BEST`
-- Value*:* `School`
+- Name *:* `BEST`
+- Value *:* `School`
 
 **File:** `6-create_local_variable`
 
 ## 7. Global variable
 Creat a script that creates a new global variable.
-- Name*:* `BEST`
-- Value*:* `School`
+- Name *:* `BEST`
+- Value *:* `School`
 
 **File:** `7-create_global_variable`
 
@@ -100,11 +100,3 @@ Write a script that encodes and decodes text using the rot13 encryption. Assume 
 Write a script that prints every other line from the input, starting with the first line.
 
 **File:** `102-odd`
-
-## 17. I'm an instant start. Just add water and stir
-Write a shell script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.
-- `WATER` is in base `water`
-- `STIR` is in base `stir`
-- The result should be in base `bestchol`
-
-**File:** `103-water_and_stir`
