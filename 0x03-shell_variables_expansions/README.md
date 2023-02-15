@@ -1,6 +1,6 @@
 # ALX-SWE 0x03. SHELL, INIT FILES, VARIABLES AND EXPANSIONS
 
-## 0.`<o>`
+## 0. `<o>`
 Create a script that creates an alias.
 - Name *:* `ls`
 - Values *:* `rm *`
